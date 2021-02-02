@@ -1,0 +1,8 @@
+{
+  "target": {
+    "rule_key": "splat_zones",
+    "stage_a_id": 0,
+    "stage_b_id": 0
+  },
+  "discord_webhook": ""
+}
